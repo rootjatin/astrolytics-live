@@ -1,3 +1,3 @@
 # astrolytics-live
 A frame rendering of astronomical data
-data source : JWST 
+data source : JWST and Astroquery
